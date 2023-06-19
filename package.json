@@ -1,0 +1,15 @@
+{
+  "name": "test-npm1",
+  "version": "1.0.0",
+  "description": "my test project",
+  "main": "app.js",
+  "scripts": {
+    "serve": "http-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sagirov Ruslan",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
